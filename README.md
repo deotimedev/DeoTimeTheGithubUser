@@ -1,6 +1,5 @@
 ### hello
-super cool dev
-have some neat libraries
+super cool dev with some neat libraries
 
 languages:
  - kotlin

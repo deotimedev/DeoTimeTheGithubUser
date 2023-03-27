@@ -1,5 +1,6 @@
 ### hello
-super cool dev @RainFramework
+super cool dev
+have some neat libraries
 
 languages:
  - kotlin
@@ -10,6 +11,8 @@ about:
  - USA
  - 15y
  - 🦀
+
+ @RainFramework
 
 <!--
 **DeoTimeTheGithubUser/DeoTimeTheGithubUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

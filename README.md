@@ -3,6 +3,7 @@ super cool dev with some neat libraries
 
 languages:
  - kotlin
+ - rust
  - java
  - other stuff
 
